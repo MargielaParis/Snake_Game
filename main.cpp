@@ -2,7 +2,6 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
-#include "maploader.h"
 #include <time.h>
 
 using namespace std;
